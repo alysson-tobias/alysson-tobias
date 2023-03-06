@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 Atualmente este é o projeto que mais me orgulho [Aplicativo de Redeitas](https://github.com/alysson-tobias/Aplicativo-de-Receitas)
+- 🔭 Atualmente este é o projeto que mais me orgulho [Aplicativo de Receitas](https://github.com/alysson-tobias/Aplicativo-de-Receitas)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
