@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alysson Tobias</h1>
-<h3 align="center">Um estudante em desenvolvimento full stack, residente em Santana do Ipanema, Alagoas, Brasil</h3>
+<h3 align="center">Desenvolvedor full stack, residente em Santana do Ipanema, Alagoas, Brasil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alysson-tobias&label=Profile%20views&color=0e75b6&style=flat" alt="alysson-tobias" /> </p>
 
